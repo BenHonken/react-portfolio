@@ -67,9 +67,8 @@ a {
   .vr{
     border-left: 2px solid orange;
     float: left;
-    height: 60px;
+    height: 50px;
     position: relative;
-    top: 30px;
   }
   #name{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
