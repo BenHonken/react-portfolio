@@ -90,6 +90,7 @@ a {
     background-color: #1a3263;
     border-color: #dddddd;
     overflow: auto;
+    max-width: 80%;
   }
   .portfolioContainer {
     text-align: center;
