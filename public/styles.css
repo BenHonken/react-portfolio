@@ -229,4 +229,8 @@ footer {
     max-width: 100%;
     margin: 0 0 20px 0;
   }
+  .contactMid{
+    border-left: 0;
+    border-right: 0;
+  }
 }
