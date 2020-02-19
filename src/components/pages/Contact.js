@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, Route } from "react-router-dom";
+import Pdf from "../../HonkenResume.pdf"
 
 function Contact(props) {
   return (
@@ -26,7 +27,7 @@ function Contact(props) {
         <hr />
         <div class="row contactBottom">
             <div class="col-md-4 contactBottom">
-                <a class="bottomLinks" href={require("../../HonkenResume.pdf")} target="blank">Resume</a>
+                <a class="bottomLinks" href={Pdf} target="blank">Resume</a>
             </div>
             <div class="col-md-4 contactMid">
                 <a class="bottomLinks" href="https://github.com/BenHonken" target="blank">Github</a>
