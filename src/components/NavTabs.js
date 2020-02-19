@@ -13,13 +13,13 @@ function NavTabs() {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                   <li class="nav-item active">
-                      <Link class="nav-link navbutton" to="/" className={window.location.pathname === "/" ? "nav-link active" : "nav-link"} >About <span class="sr-only">(current)</span></a>
+                      <Link class="nav-link navbutton" to="/" className={window.location.pathname === "/" ? "nav-link active" : "nav-link"} >About <span class="sr-only">(current)</span></Link>
                   </li>
                   <li>
                       <div class="vr"></div>
                   </li>
                   <li class="nav-item">
-                      <Link class="nav-link navbutton" to="/portfolio" className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>Portfolio</a>
+                      <Link class="nav-link navbutton" to="/portfolio" className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>Portfolio</Link>
                   </li>
                   <li>
                       <div class="vr"></div>
@@ -27,7 +27,7 @@ function NavTabs() {
                   <li class="nav-item">
                       <Link class="nav-link navbutton" to="/contact" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
                       Contact
-                      </a>
+                      </Link>
                   </li>
                 </ul>
             </div>
