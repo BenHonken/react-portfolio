@@ -2,7 +2,6 @@ import React from "react";
 
 function About() {
   return (
-    <div class="pushFooter">
       <div class="container wrapper">
           <h1>
               About Me
@@ -26,7 +25,6 @@ function About() {
               </div>
           </div>
       </div>
-  </div>
   );
 }
 
