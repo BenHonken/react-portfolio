@@ -233,4 +233,7 @@ footer {
     border-left: 0;
     border-right: 0;
   }
+  .banner{
+    font-size: 16px;
+  }
 }
