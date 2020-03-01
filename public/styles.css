@@ -116,7 +116,7 @@ a {
   }
   #mypic{
       align-content: center;
-      margin: 0px 0px 20px 20px;
+      margin: 30px 0px 20px 20px;
       max-width: 90%;
       height: auto;
   }
@@ -227,7 +227,7 @@ footer {
   }
   #mypic{
     max-width: 100%;
-    margin: 0 0 20px 0;
+    margin: 20px 0 20px 0;
   }
   .contactMid{
     border-left: 0;
