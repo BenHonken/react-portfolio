@@ -5,7 +5,7 @@ images.push(require("../../images/mantisshrimp.jpg"))
 images.push(require("../../images/weather.jpg"))
 images.push(require("../../images/taco.jpg"))
 images.push(require("../../images/breakingBad.jpg"))
-images.push(require("../../images/calendarpic.jpg"))
+images.push(require("../../images/chameleonSheets.jpg"))
 images.push(require("../../images/journal.jpg"))
 function PortfolioProjects() {
     

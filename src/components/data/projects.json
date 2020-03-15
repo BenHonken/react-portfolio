@@ -1,27 +1,28 @@
 [
     [{
+        "title": "Chameleon Sheets",
+        "img": 4,
+        "deployed": "https://chameleon-sheets.herokuapp.com/",
+        "repo": "https://github.com/kbetlach/chameleon_sheets",
+        "alt": "chameleonSheetsPic",
+        "bannerID": "chameleonSheets"
+    },
+    {
         "title": "Mantis Shrimp Tutoring",
         "img": 0,
         "deployed": "https://mantisshrimp.herokuapp.com/",
         "repo": "https://github.com/BenHonken/mantis-shrimp",
         "alt": "mantisShrimpPic",
         "bannerID": "mantisshrimp"
-    },
-    {
+    }
+    ],
+    [{
         "title": "Weather Dashboard",
         "img": 1,
         "deployed": "https://benhonken.github.io/homework06/",
         "repo": "https://github.com/BenHonken/BenHonken.github.io/tree/master/homework06",
         "alt": "weatherpic",
         "bannerID": "weather"
-    }],
-    [{
-        "title": "Tacos and Tequila",
-        "img": 2,
-        "deployed": "https://benhonken.github.io/homework07/",
-        "repo": "https://github.com/BenHonken/BenHonken.github.io/tree/master/homework07",
-        "alt": "tacopic",
-        "bannerID": "taco"
     },
     {
         "title": "Breaking Bad Quiz",
@@ -31,14 +32,7 @@
         "alt": "breakingBadPic",
         "bannerID": "breakingBad"
     }],
-    [{
-        "title": "Calendar",
-        "img": 4,
-        "deployed": "https://benhonken.github.io/homework05/",
-        "repo": "https://github.com/BenHonken/BenHonken.github.io/tree/master/homework05",
-        "alt": "calendarPic",
-        "bannerID": "calendar"
-    },
+    [
     {
         "title": "Journal",
         "img": 5,
@@ -46,5 +40,14 @@
         "repo": "https://github.com/BenHonken/journal",
         "alt": "journalPic",
         "bannerID": "journal"
-    }]
+    },
+    {
+        "title": "Tacos and Tequila",
+        "img": 2,
+        "deployed": "https://benhonken.github.io/homework07/",
+        "repo": "https://github.com/BenHonken/BenHonken.github.io/tree/master/homework07",
+        "alt": "tacopic",
+        "bannerID": "taco"
+    }
+]
 ]
